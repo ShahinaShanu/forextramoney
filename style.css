@@ -1,0 +1,11 @@
+p{
+	font-size: 1em;
+	line-height: 1em;
+}
+.clear-filter[filter-color="orange"] {
+	background:linear-gradient(to top, rgba(133,187,101,0), rgba(133,187,101,.9));
+}
+
+.policyWrapper{
+	padding:40px;
+}
