@@ -1,0 +1,8 @@
+[YES] Can sell and keep 100% of the sales
+[YES] Can sell with Resale Rights
+[YES] Can sell with Master Resale Rights
+[YES] Can edit the included squeeze page
+[YES] Can giveaway
+[YES] Can be added into a membership site. 
+
+[NO] Can sell with Private Label Rights

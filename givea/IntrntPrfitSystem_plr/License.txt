@@ -1,0 +1,17 @@
+[Yes] Products may be sold separately
+[Yes] Products may be bundled
+[Yes] Products can be a bonus for another product
+[Yes] Can be added to paid membership sites
+[Yes] Can add bonuses to the Product(s) for sale
+[Yes] Can be sold as a physical product
+[Yes] Can be sold as a digital product
+[Yes] You may put your own name on the sales letter
+[Yes] You may rename the Products
+[Yes] You may edit the sales material
+[Yes] You may edit the content of the product
+[Yes] You may use the source code to create new products
+[Yes] Can be added to free membership sites
+[Yes] Can be given away for free
+[Yes] Can sell Resale Rights
+[Yes] Can sell Master Resale Rights
+[Yes] Can sell Private Label Rights
